@@ -1,6 +1,16 @@
-# 💫 About Me:
-# About Me:<br><br>🎓 **I'm currently working on** data science and machine learning projects including predictive models and OCR applications<br><br>🤝 **I'm looking to collaborate on** machine learning, data analysis, and full-stack development projects<br><br>💡 **I'm looking for help with** advanced ML algorithms and cloud deployment strategies<br><br>📚 **I'm currently learning** advanced data science techniques and modern web frameworks as a BS Data Science student<br><br>💬 **Ask me about** Python, machine learning, data analysis, and web development<br><br>⚡ **Fun fact** I build applications that combine analytical thinking with creative problem-solving
+## About Me
 
+**🎓 Currently Working On:** Data science and machine learning projects including predictive models and OCR applications
+
+**🤝 Looking to Collaborate On:** Machine learning, data analysis, and full-stack development projects
+
+**💡 Seeking Help With:** Advanced ML algorithms and cloud deployment strategies
+
+**📚 Currently Learning:** Advanced data science techniques and modern web frameworks as a BS Data Science student
+
+**💬 Ask Me About:** Python, machine learning, data analysis, and web development
+
+**⚡ Fun Fact:** I build applications that combine analytical thinking with creative problem-solving
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmaad__umar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/umer-farooq-497522309) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:btumer83@gmail.com) 
