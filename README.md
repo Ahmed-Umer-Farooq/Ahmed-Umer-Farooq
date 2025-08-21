@@ -62,47 +62,54 @@
 
 ## 🏆 Featured Projects
 
+### 📊 Label Studio FEMA Processor
+> A specialized data processing tool for FEMA datasets using Label Studio  
+- **Tech Stack:** Python, Label Studio, Data Processing, Pandas  
+- **Features:** FEMA disaster data annotation, preprocessing, and structured output  
+- **Applications:** Disaster response, emergency management, structured data labeling  
+- **Repository:** [label-studio-fema-processor](https://github.com/Ahmed-Umer-Farooq/label-studio-fema-processor)
+
 ### 🫀 Heart Disease Detection
-> Machine learning model for cardiovascular risk prediction and early diagnosis
-- **Tech Stack:** Python, Jupyter Notebook, Scikit-learn, Pandas, Matplotlib
-- **Features:** Predictive modeling, data preprocessing, feature engineering, model evaluation
-- **Impact:** Healthcare AI solution for early cardiovascular disease detection
+> Machine learning model for cardiovascular risk prediction and early diagnosis  
+- **Tech Stack:** Python, Jupyter Notebook, Scikit-learn, Pandas, Matplotlib  
+- **Features:** Predictive modeling, data preprocessing, feature engineering, model evaluation  
+- **Impact:** Healthcare AI solution for early cardiovascular disease detection  
 - **Repository:** [Heart-Disease-Detection](https://github.com/Ahmed-Umer-Farooq/Heart-Disease-Detection)
 
 ### 🔍 GoProTimeOCR
-> Python-based OCR tool for automated text extraction from images
-- **Tech Stack:** Python, EasyOCR, OpenCV, Jupyter Notebook
-- **Features:** Customizable image preprocessing, GPU acceleration, batch processing
-- **Applications:** Automated text extraction, document digitization, data processing
-- **Repository:** [GoProTimeOCR](https://github.com/Ahmed-Umer-Farooq/GoProTimeOCR)
+> Python-based OCR tool for automated text extraction from images  
+- **Tech Stack:** Python, EasyOCR, OpenCV, Jupyter Notebook  
+- **Features:** Customizable image preprocessing, GPU acceleration, batch processing  
+- **Applications:** Automated text extraction, document digitization, data processing  
+- **Repository:** [GoProTimeOCR](https://github.com/Ahmed-Umer-Farooq/GoProTimeOCR)  
 - **Forked from:** [josmarcristello/GoProTimeOCR](https://github.com/josmarcristello/GoProTimeOCR)
 
 ### 💝 Brainy Hearts App
-> Fun interactive application combining love calculator with IQ assessment
-- **Tech Stack:** JavaScript, HTML, CSS, Web APIs
-- **Features:** Love compatibility calculator, IQ test integration, interactive UI
-- **Philosophy:** Making data science fun and accessible through creative applications
+> Fun interactive application combining love calculator with IQ assessment  
+- **Tech Stack:** JavaScript, HTML, CSS, Web APIs  
+- **Features:** Love compatibility calculator, IQ test integration, interactive UI  
+- **Philosophy:** Making data science fun and accessible through creative applications  
 - **Repository:** [brainy-hearts-app](https://github.com/Ahmed-Umer-Farooq/brainy-hearts-app)
 
 ### 🔐 MERN Authentication App
-> Full-stack authentication system built with MERN stack
-- **Tech Stack:** MongoDB, Express.js, React, Node.js, JavaScript
-- **Features:** User registration, login/logout, secure authentication, JWT tokens
-- **Applications:** Scalable user management system for web applications
+> Full-stack authentication system built with MERN stack  
+- **Tech Stack:** MongoDB, Express.js, React, Node.js, JavaScript  
+- **Features:** User registration, login/logout, secure authentication, JWT tokens  
+- **Applications:** Scalable user management system for web applications  
 - **Repository:** [mern-auth-app-](https://github.com/Ahmed-Umer-Farooq/mern-auth-app-)
 
 ### 🥁 Drum Scraper
-> Python web scraping tool for drum-related data extraction
-- **Tech Stack:** Python, Web Scraping Libraries, Data Processing
-- **Features:** Automated data collection, data cleaning, structured output
-- **Applications:** Music industry data analysis, product research
+> Python web scraping tool for drum-related data extraction  
+- **Tech Stack:** Python, Web Scraping Libraries, Data Processing  
+- **Features:** Automated data collection, data cleaning, structured output  
+- **Applications:** Music industry data analysis, product research  
 - **Repository:** [Drum_Scraper](https://github.com/Ahmed-Umer-Farooq/Drum_Scraper)
 
 ### ⚾ MLB Project
-> Baseball analytics and machine learning project
-- **Tech Stack:** Python, Data Analysis, Machine Learning, Jupyter Notebook
-- **Features:** Statistical analysis, predictive modeling, data visualization
-- **Applications:** Sports analytics, performance prediction, trend analysis
+> Baseball analytics and machine learning project  
+- **Tech Stack:** Python, Data Analysis, Machine Learning, Jupyter Notebook  
+- **Features:** Statistical analysis, predictive modeling, data visualization  
+- **Applications:** Sports analytics, performance prediction, trend analysis  
 - **Repository:** [MLB](https://github.com/Ahmed-Umer-Farooq/MLB)
 
 ---
