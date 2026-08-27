@@ -113,6 +113,4 @@ Headless Selenium data pipelines harvesting structured datasets from online sour
 
 <div align="center">
 <sub>Focused on scalable architecture, clean codebases, and performance-driven development.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=100&section=footer" width="100%"/>
 </div>
