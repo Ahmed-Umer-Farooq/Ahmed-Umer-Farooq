@@ -103,9 +103,7 @@ Headless Selenium data pipelines harvesting structured datasets from online sour
 
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ahmed-Umer-Farooq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Umer-Farooq&theme=tokyonight&hide_border=true" width="100%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Umer-Farooq&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=Ahmed-Umer-Farooq&theme=tokyonight&hide_border=true" width="100%"/>
 
 </div>
 
