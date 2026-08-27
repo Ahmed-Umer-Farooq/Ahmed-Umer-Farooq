@@ -8,6 +8,7 @@
 
 <br/><br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmad-umer-farooq.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umer-farooq-497522309)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btumer83@gmail.com)
 [![Zirium AI](https://img.shields.io/badge/Zirium_AI-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://ziriumai.com)
