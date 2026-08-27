@@ -17,7 +17,7 @@
 
 ---
 
-### ⚡ Architectural Summary
+###  Architectural Summary
 
 Full-Stack Software Engineer with expertise in building resilient web platforms, cross-platform mobile ecosystems, and asynchronous backend microservices. Focused on production-grade architectures, real-time WebSocket state synchronization, distributed worker queues, and automated data pipelines.
 
@@ -106,15 +106,21 @@ Full-Stack Software Engineer with expertise in building resilient web platforms,
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Umer-Farooq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Umer-Farooq&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com/?user=Ahmed-Umer-Farooq&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+  <table border="0">
+    <tr align="center">
+      <td>
+        <img width="450" src="https://github-readme-stats-fast.vercel.app/api?username=Ahmed-Umer-Farooq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Overview" />
+      </td>
+      <td>
+        <img width="400" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ahmed-Umer-Farooq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr align="center">
+      <td colspan="2">
+        <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Umer-Farooq&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
